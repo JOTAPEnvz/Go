@@ -1,0 +1,23 @@
+{
+    "usuarios": [
+        {
+            "Nome": "João",
+            "Tipo": "Leitora",
+            "Idade": 28,
+            "Social":{
+                "Facebook": "joao.fb",
+                "LinkedIn": "joao.li"
+            }
+        },
+        {
+            "id": 2,
+            "Nome": "Maria",
+            "Tipo": "Leitora",
+            "Idade": 28,
+            "Social":{
+                "Facebook": "maria.fb",
+                "LinkedIn": "maria.li"
+            }
+        }
+    ]
+}
